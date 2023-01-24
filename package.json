@@ -51,7 +51,7 @@
     "@types/react-dom": "^16.0.8",
     "adm-zip": "^0.4.7",
     "app-manifest-webpack-plugin": "^1.2.0",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "css-loader": "^1.0.0",
     "gh-pages": "^1.1.0",
     "html-loader": "^0.5.5",
